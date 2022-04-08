@@ -17,7 +17,7 @@ Student enrolled at the University of Washington taking Geography 458.
 Summary of your role
 
 - Geography: Data Science Major
-- Analyzing data
+- Analyzing data for class
 - Student
 
 ## Amazon (Seattle, Washington)
