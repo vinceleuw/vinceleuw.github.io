@@ -4,7 +4,7 @@ vincele@uw.edu
 
 # Summary
 
-Student enrolled at the University of Washington taking Geography 458.
+> Student enrolled at the University of Washington taking Geography 458.
 
 # Work Experience (only last 10 years)
 
@@ -19,6 +19,8 @@ Summary of your role
 - Geography: Data Science Major
 - Analyzing data for class projects
 - Student
+
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Washington_Huskies_logo.svg/1280px-Washington_Huskies_logo.svg.png)
 
 ## Amazon (Seattle, Washington)
 * [Amazon][]
